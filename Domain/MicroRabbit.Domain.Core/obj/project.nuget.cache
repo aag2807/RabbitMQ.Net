@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7otliPSUlDLe3dfQy1qPkNmEOVgFWD3luhOMH2RLX+4wifcEhqoxmeAY1aWjP7R3vL8YWooYkZ4Hydwwgomsew==",
+  "success": true,
+  "projectFilePath": "/home/alvaro/Documents/code/net/MicroRabbit/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/alvaro/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

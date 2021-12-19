@@ -1,0 +1,17 @@
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net6.0/MicroRabbit.Infra.IoC.deps.json
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net6.0/MicroRabbit.Infra.IoC.dll
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net6.0/ref/MicroRabbit.Infra.IoC.dll
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net6.0/MicroRabbit.Infra.IoC.pdb
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net6.0/MicroRabbit.Infra.IoC.csproj.AssemblyReference.cache
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net6.0/MicroRabbit.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net6.0/MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net6.0/MicroRabbit.Infra.IoC.AssemblyInfo.cs
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net6.0/MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net6.0/MicroRabbit.Infra.IoC.dll
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net6.0/ref/MicroRabbit.Infra.IoC.dll
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net6.0/MicroRabbit.Infra.IoC.pdb
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net6.0/MicroRabbit.Domain.Core.dll
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net6.0/MicroRabbit.Infra.Bus.dll
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net6.0/MicroRabbit.Domain.Core.pdb
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/bin/Debug/net6.0/MicroRabbit.Infra.Bus.pdb
+/home/alvaro/Documents/code/net/MicroRabbit/Infra.IoC/MicroRabbit.Infra.IoC/obj/Debug/net6.0/MicroRabbit.Infra.IoC.csproj.CopyComplete
